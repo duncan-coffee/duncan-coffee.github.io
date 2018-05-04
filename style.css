@@ -1,0 +1,38 @@
+
+#sketch-holder {
+    position: relative;
+
+}
+
+#text-top {
+    position: absolute;
+    top:50;
+    font-size:48px;
+    font-family: monospace;
+    color: white;
+    left: 33%;
+    transform: translate(-15%, 0);
+
+}
+
+#text-bottom {
+    position: absolute;
+    bottom: 50;
+    font-size:48px;
+    font-family: monospace;
+    color: white;
+    left: 33%;
+    transform: translate(-15%, 0);
+
+}
+
+#audio-player {
+    position: absolute;
+    bottom: 50;
+    font-size:48px;
+    font-family: monospace;
+    color: white;
+    left: 33%;
+    transform: translate(10%, 0);
+
+}
