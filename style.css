@@ -6,33 +6,37 @@
 
 #text-top {
     position: absolute;
-    top:50;
+    height: 50;
+    top: 5%;
+    left: 25%;
+
+    background-color: black;
+
     font-size:48px;
     font-family: monospace;
     color: white;
-    left: 33%;
-    transform: translate(-15%, 0);
-
 }
 
 #text-bottom {
     position: absolute;
-    bottom: 50;
+    bottom: 5%;
+    left: 25%;
+
     font-size:48px;
     font-family: monospace;
     color: white;
-    left: 33%;
-    transform: translate(-15%, 0);
 
 }
 
 #audio-player {
     position: absolute;
-    bottom: 50;
+    bottom: 4%;
+    left: 37%;
+
     font-size:48px;
     font-family: monospace;
     color: white;
-    left: 33%;
-    transform: translate(10%, 0);
+
+
 
 }
