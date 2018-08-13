@@ -8,9 +8,23 @@
 
 .content {
     position: fixed;
-    bottom: 0;
+    top: 8%;
+    left: 20%;
     background: rgba(0, 0, 0, 0.5);
     color: #f1f1f1;
-    width: 50%;
+    width: 60%;
     padding: 20px;
+}
+
+h1 {
+    text-shadow: 2px 2px black;
+    font-size: 64px;
+}
+h2 {
+    text-shadow: 2px 2px black;
+    font-size: 42px;
+}
+p {
+    text-shadow: 2px 2px black;
+    font-size: 28px;
 }
