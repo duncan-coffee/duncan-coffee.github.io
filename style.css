@@ -9,3 +9,10 @@ body {
 img {
       width: 30%
     }
+
+@media screen and (max-width: 800px){
+  body{
+    margin-right: 4%;
+  }
+
+}
