@@ -1,40 +1,8 @@
+body {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-right: 50%;
+        margin-left: 4%;
 
-#sketch-holder {
-    position: relative;
-
-}
-
-#text-top {
-    position: absolute;
-    height: 50;
-    top: 5%;
-    left: 25%;
-
-    font-size:48px;
-    font-family: monospace;
-    color: white;
-}
-
-#text-bottom {
-    position: absolute;
-    bottom: 5%;
-    left: 25%;
-
-    font-size:48px;
-    font-family: monospace;
-    color: white;
-
-}
-
-#audio-player {
-    position: absolute;
-    bottom: 4%;
-    left: 37%;
-
-    font-size:48px;
-    font-family: monospace;
-    color: white;
-
-
-
-}
+        font-family: "Times New Roman", Times, sans-serif;
+      }
