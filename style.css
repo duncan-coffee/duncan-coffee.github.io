@@ -1,13 +1,18 @@
 body {
         margin-top: 0px;
         margin-bottom: 0px;
-        margin-right: 50%;
-        margin-left: 4%;
+        margin-right: 350px;
+        margin-left: 40px;
 
         font-family: "Courier New", Courier, monospace;
+
+        background: gainsboro;
       }
 img {
+      border: 1px solid dimgray;
       width: 30%
+
+
     }
 
 @media screen and (max-width: 800px){
@@ -15,4 +20,16 @@ img {
     margin-right: 4%;
   }
 
+}
+
+.text{
+        background: white;
+        padding-top: 1px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+        border: 1px solid dimgray;
+        box-shadow: 7px 10px darkgray;
 }
