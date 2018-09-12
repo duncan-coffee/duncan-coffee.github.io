@@ -1,7 +1,7 @@
 body {
+        width: 575px;
         margin-top: 0px;
         margin-bottom: 0px;
-        width: 575px;
         margin-left: 40px;
 
         font-family: "Courier New", Courier, monospace;
@@ -17,6 +17,7 @@ img {
 
 @media screen and (max-width: 800px){
   body{
+    width: 400px;
     margin-right: 10px;
     margin-left: 10px;
   }
