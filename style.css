@@ -17,21 +17,28 @@ img {
 
 @media screen and (max-width: 800px){
   body{
-    width: 390px;
-    margin-right: 5px;
-    margin-left: 5px;
-    margin-top: 5px; 
+        width: 100%;
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+        margin-right: 5px;
+        margin-left: 5px;
+        margin-top: 5px;
+
   }
 
 }
 
 .text{
         background: white;
+
         padding-top: 1px;
         padding-left: 20px;
         padding-right: 20px;
-        margin-top: 10px;
-        margin-bottom: 20px;
+
+        margin-top: 20px;
+        margin-bottom: 40px;
 
         border: 1px solid dimgray;
         box-shadow: 7px 10px darkgray;
