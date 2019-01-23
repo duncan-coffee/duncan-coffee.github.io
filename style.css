@@ -9,12 +9,13 @@ html {
 body {
         width: 575px;
         font-family: "Courier New", Courier, monospace;
-        background: gainsboro;
+        background: #1a1a1a;
+        color:white;
 
         margin-top: 20px;
         margin-bottom: 40px;
         margin-left: 40px;
-
+        opacity: 0.975;
       }
 
 img {
@@ -24,8 +25,6 @@ img {
     }
 
 .text {
-        background: white;
-
         padding-top: 1px;
         padding-left: 20px;
         padding-right: 20px;
