@@ -105,7 +105,14 @@ img {
     right: 10px;
     width: 180px;
     height: 80px;
-    font-size: 2em;
+    font-size: 1em;
+  }
+
+  .fa {
+    padding: 10px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
   }
 
 }
