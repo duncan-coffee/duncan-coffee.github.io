@@ -1,0 +1,11 @@
+html { }
+
+body {
+        width: 750px;
+        font-size: large;
+        background: white;
+        color:black;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        margin-left: 40px;
+}
