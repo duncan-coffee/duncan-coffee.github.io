@@ -77,7 +77,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 }
 
 .fa-spotify {
-  
+  background: #000000;
+  color: #84bd00;
 }
 
 @media screen and (max-width: 800px){
