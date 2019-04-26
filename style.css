@@ -63,8 +63,8 @@ a {
 }
 
 .fa-youtube {
-  background: #bb0000;
   color: white;
+  background: #bb0000;
 }
 
 .fa-instagram {
@@ -76,6 +76,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
   color: white;
 }
 
+.fa-spotify {
+  background: #000000;
+  color: #84bd00;
+}
 
 @media screen and (max-width: 800px){
 
