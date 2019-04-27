@@ -12,11 +12,10 @@ body {
         font-family: "Courier New", Courier, monospace;
         background: rgba(26, 26, 26, 0.8);
         color:white;
-        position:absolute;
+        
         margin-top: 20px;
         margin-bottom: 40px;
         margin-left: 40px;
-        overflow:scroll;
       }
 
 img {
