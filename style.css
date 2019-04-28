@@ -9,7 +9,7 @@ html {
 body {
         width:70%;
 
-        font-family: "Courier New", Courier, monospace;
+        font-family: "Arial Black", Gadget, sans-serif;
         background: rgba(26, 26, 26, 0.8);
         color:white;
 
@@ -140,7 +140,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
     position: fixed;
     bottom: 0;
     right: 0;
-    width: 300px;
+    width: 260px;
     height: 40px;
     font-size: 1.5em;
 
