@@ -46,6 +46,16 @@ a {
   text-align: left;
 }
 
+
+.grid-container {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto auto;
+}
+
+
+
 .social {
   position: fixed;
   top: 10;
